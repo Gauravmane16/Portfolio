@@ -1,4 +1,5 @@
 Here’s a sample `README.md` file for your React.js app hosted on Netlify:  
+![image](https://github.com/user-attachments/assets/2d650bfd-d3a5-4fae-ae2b-85f2c907b97e)
 
 ```markdown
 # Gaurav Mane's Portfolio
